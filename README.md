@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 参考文章
 
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483713&idx=1&sn=cd4228e19d07e0371af7ef06515f4298&chksm=fdf455f9ca83dcef81c44f10bff15a3d3a29553746eef9cad9d4e2a13c5d5709d95a375bff0a&token=949711998&lang=zh_CN#rd">
@@ -48,3 +49,7 @@ SpringBoot集成常用开发中间件，分库分表，缓存，消息队列，�
 <img src="https://avatars0.githubusercontent.com/u/50793885?s=460&v=4"/>
 
 
+=======
+# -horizon-middle-ware
+中间件工具类
+>>>>>>> 9a1680cf1d9701b59be107892b4285b39d5618c3
